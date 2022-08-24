@@ -1,6 +1,6 @@
 # React JS Weather App
 
-Build a weather app in react js using Open Weather API.
+Build a weather app in ReactJs using Open Weather API.
 
 #### Demo:
 https://govindpathak20.github.io/React-Weather-App/

@@ -1,4 +1,5 @@
-# Build Weather Application With React.js & Open Weather API
+# Weather Application
+Developed a Weather Application With React.js & Open Weather API
 
 #### Demo - Deployed over Github Pages
 https://govindpathak20.github.io/React-Weather-App/
